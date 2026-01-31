@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Found items – Lost & Found</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="found">
+  <header class="site-nav">
+    <nav class="nav-inner">
+      <a href="index.html" class="logo">Lost & Found</a>
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="lost.html">Lost</a>
+        <a href="found.html">Found</a>
+        <a href="post.html">Post item</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="page">
+    <div class="list-header">
+      <div>
+        <h1>Found items</h1>
+        <p class="page-lead">Items reported as found. If you’ve lost something, check here to see if it’s been turned in.</p>
+      </div>
+      <a href="post.html" class="btn btn-primary">Post an item</a>
+    </div>
+
+    <div id="item-cards" class="item-cards">
+      <!-- Filled by js/app.js -->
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    Lost & Found · Post, browse, and reconnect.
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
